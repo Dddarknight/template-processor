@@ -7,19 +7,21 @@
 ```
 $ git clone git@github.com:Dddarknight/template-processor.git
 $ cd template-processor
+$ python -m venv venv
+$ source venv/bin/activate
 $ poetry install
 ```
 
 ## Usage
 **Launch a script**
 ```
-$ python src.main JSON_DATASET_FILE_NAME
+$ python -m src.main JSON_DATASET_FILE_NAME
 ```
 
 Можно проверить работу скрипта на основании шаблона датасета:
 
 ```
-$ python src.main tests/fixtures/example.json
+$ python -m src.main tests/fixtures/example.json
 ```
 
 ## Tests

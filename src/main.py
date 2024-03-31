@@ -4,7 +4,7 @@ import sys
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from builder import DocumentBuilder
+from src.builder import DocumentBuilder
 from cli import parse
 from logger import setup_logging
 
