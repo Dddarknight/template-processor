@@ -5,8 +5,8 @@ import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from src.builder import DocumentBuilder
-from cli import parse
-from logger import setup_logging
+from src.cli import parse
+from src.logger import setup_logging
 
 
 def get_dataset():
