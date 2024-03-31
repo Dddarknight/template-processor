@@ -1,0 +1,22 @@
+{
+  "company": "ABC",
+  "project": "Project",
+  "number": 11,
+  "company_name": "ABC",
+  "company_address": "address",
+  "court_name": "Court",
+  "date_from": "12.01.2024",
+  "case_number": "40-4949",
+  "financial_organization": "FO",
+  "ogrn": "234567543",
+  "inn": "778765456",
+  "reg_address": "reg_address",
+  "bill_number": "87",
+  "total": 900,
+  "sign": "sign",
+  "day": 1,
+  "month": "января",
+  "year": 24,
+  "full_name": "F I O",
+  "credentials": "credentials"
+}

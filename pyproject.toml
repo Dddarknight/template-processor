@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "template-processor"
+version = "0.1.0"
+description = ""
+authors = ["Dddarknight <9801677@gmail.com>"]
+readme = "README.md"
+packages = [{include = "template_processor"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+docxtpl = "^0.16.8"
+pytest = "^8.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

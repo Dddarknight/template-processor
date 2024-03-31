@@ -1,0 +1,49 @@
+{
+  "company": "ABC",
+  "project": "Project",
+  "number": 11,
+  "company_name": "ABC",
+  "company_address": "address",
+  "court_name": "Court",
+  "date_from": "12.01.2024",
+  "case_number": "40-4949",
+  "financial_organization": "FO",
+  "ogrn": "234567543",
+  "inn": "778765456",
+  "reg_address": "reg_address",
+  "bill_number": "87",
+  "winners": [
+    {
+      "pp_number": "123",
+      "lot_number": "321",
+      "pp_date": "12.02.2024",
+      "winner_name": "winner1",
+      "payment_purpose": "payment_purpose1",
+      "payment_sum": 200
+    },
+    {
+      "pp_number": "234",
+      "lot_number": "432",
+      "pp_date": "14.02.2024",
+      "winner_name": "winner2",
+      "payment_purpose": "payment_purpose2",
+      "payment_sum": 300
+    },
+    {
+      "pp_number": "345",
+      "lot_number": "543",
+      "pp_date": "15.02.2024",
+      "winner_name": "winner3",
+      "payment_purpose": "payment_purpose3",
+      "payment_sum": 400
+    }
+  ],
+  "total": 900,
+  "sign": "sign",
+  "day": 1,
+  "month": "января",
+  "year": 24,
+  "full_name": "F I O",
+  "credentials": "credentials",
+  "additional": "additional"
+}
